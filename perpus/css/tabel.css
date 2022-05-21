@@ -1,0 +1,31 @@
+.tabel 
+{
+    width: 100%;
+}
+
+.tabel th
+{
+    padding: 5px 0;
+}
+
+.tabel td
+{
+    text-align: center;
+}
+
+.tabel td img
+{
+    width: 56px;
+    height: auto;
+}
+
+.btn
+{
+    cursor: pointer ;
+    font-weight: bold;
+    background-color: rgb(58, 159, 237);
+    float: right;
+    height: 36px;
+    margin: 10px 0;
+    color: white;
+}

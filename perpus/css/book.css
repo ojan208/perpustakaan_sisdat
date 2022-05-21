@@ -1,0 +1,40 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: 'nunito', sans-serif;
+}
+
+.box
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 120px auto 0 auto;
+    width: 80%;
+}
+
+.box img
+{
+    box-shadow: 6px 4px 10px rgb(190, 190, 190);
+    padding: 25px;
+    margin: 0 15%;
+    width: 60%;
+    height: auto;
+}
+
+.title
+{
+    padding-top: 30px;
+}
+
+.title p
+{
+    font-size: 100%;
+}
+
+.detail
+{
+    justify-content: space-between;
+    gap: 10px;
+    margin-top: 20px;
+}
